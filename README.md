@@ -2,7 +2,7 @@
 
    _Software Developer_:
 
-- 🔭 I’m currently developing a **Bot**
+- 🔭 I’m currently developing [**ReadmeGenerator**](https://github.com/PaoloFer/ReadmeGenerator)
 
 - 🌱 I’m currently learning **_JS and Node.js_**
 
