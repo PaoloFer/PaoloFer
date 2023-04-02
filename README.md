@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently developing [**ReadmeGenerator**](https://github.com/PaoloFer/ReadmeGenerator)
 
-- 🌱 I’m currently learning **_JS and Node.js_**
+- 🌱 I’m currently looking into **_JS and Node.js_**
 
 - 👯 I really enjoy contributing to **Open Source**
  
