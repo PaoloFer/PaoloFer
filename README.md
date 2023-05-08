@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: **I'm a pianist**
 
+- 🖋️ My Blog: [PaoloFerrari](https://paoloferrari.hashnode.dev/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
